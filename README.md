@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanaya Aswale</h1>
-<h3 align="center">A passionate frontend developer from Cloud & DevOps Enthusiast | AWS Certified | MCA 2024 🚀 Passionate about scalable solutions and modern tech. India</h3>
+<h3 align="center">Cloud & DevOps Enthusiast | AWS Certified | MCA Class of 2024 🚀 Driven by a passion for scalable solutions and cutting-edge technology.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
